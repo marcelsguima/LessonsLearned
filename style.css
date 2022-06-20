@@ -1,5 +1,10 @@
 .body{
     background-color: rgb(253, 251, 251);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: gray;
 }
 
 #cabecalho{
@@ -11,4 +16,18 @@
     width: 300px;
     border-left: 500px;
     padding-top: 100px;
+}
+
+.tabela{
+    margin: 20px;
+    border: 3px solid black;
+    padding: 1px;
+}
+
+td,th{
+    border: 1px solid black;    
+}
+
+#licoes_aprendidas{
+    line-height: 1.4
 }
