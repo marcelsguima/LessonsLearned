@@ -3,6 +3,8 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
+    float: inline-start;
+    background-color: rgb(253, 251, 251);
     font-size: 40px;
     color: gray;
 }
@@ -32,9 +34,9 @@ td,th {
     float: left; 
 }
 .lado-direito {
-
+    margin-left: 20px;
     width: 250px;
-    float: right;
+    float: left;
 }
 .tabela{
     margin-top: 400px;
